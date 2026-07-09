@@ -1,0 +1,74 @@
+[
+  {
+    "source": "news",
+    "source_type": "public_signal",
+    "title": "엔저 흐름에 일본 근거리 여행 관심 지속",
+    "body": "원화 대비 엔화 부담이 낮아지며 후쿠오카와 오사카 같은 근거리 일본 여행지가 주목받고 있다.",
+    "published_at": "2026-07-08",
+    "url": "https://news.example.com/japan-yen-travel",
+    "keyword": "일본 여행"
+  },
+  {
+    "source": "news",
+    "source_type": "public_signal",
+    "title": "여름휴가 시즌 동남아 가족 여행 수요 증가",
+    "body": "다낭, 세부, 나트랑 등 휴양형 여행지의 가족 단위 문의가 늘고 있다.",
+    "published_at": "2026-07-07",
+    "url": "https://news.example.com/southeast-asia-family",
+    "keyword": "동남아 여행"
+  },
+  {
+    "source": "news",
+    "source_type": "public_signal",
+    "title": "제주 렌터카 가격 비교 수요 확대",
+    "body": "국내 여행 성수기를 앞두고 제주 렌터카 가격비교와 보험 조건 확인 수요가 커지고 있다.",
+    "published_at": "2026-07-06",
+    "url": "https://news.example.com/jeju-car",
+    "keyword": "제주 여행"
+  },
+  {
+    "source": "news",
+    "source_type": "public_signal",
+    "title": "태국 액티비티 여행, 푸켓과 치앙마이 관심 증가",
+    "body": "태국 여행자는 해양 액티비티와 자연 체험을 함께 찾는 경향이 강해지고 있다.",
+    "published_at": "2026-07-05",
+    "url": "https://news.example.com/thailand-activity",
+    "keyword": "태국 여행"
+  },
+  {
+    "source": "news",
+    "source_type": "public_signal",
+    "title": "필리핀 세부 보홀 호핑투어 예약 문의 증가",
+    "body": "고래상어, 호핑, 초콜릿힐을 묶은 필리핀 투어 상품이 여름휴가 수요와 맞물리고 있다.",
+    "published_at": "2026-07-04",
+    "url": "https://news.example.com/cebu-bohol",
+    "keyword": "필리핀 여행"
+  },
+  {
+    "source": "news",
+    "source_type": "public_signal",
+    "title": "베트남 다낭 테마파크와 가족 여행 코스 주목",
+    "body": "바나힐과 호이안 연계 코스가 가족 여행객에게 반복적으로 언급되고 있다.",
+    "published_at": "2026-07-03",
+    "url": "https://news.example.com/da-nang-family",
+    "keyword": "다낭 여행"
+  },
+  {
+    "source": "news",
+    "source_type": "public_signal",
+    "title": "하와이 장거리 휴양 상품은 가격 혜택이 선택 변수",
+    "body": "장거리 휴양지는 카드 할인, 항공 숙박 이벤트 등 명확한 혜택이 전환에 영향을 준다.",
+    "published_at": "2026-07-02",
+    "url": "https://news.example.com/hawaii-promotion",
+    "keyword": "하와이 여행"
+  },
+  {
+    "source": "news",
+    "source_type": "public_signal",
+    "title": "몽골 소규모 동행 투어 관심 확대",
+    "body": "혼자 떠나는 여행자가 늘며 동행매칭형 고비사막, 홉스골 투어가 주목받고 있다.",
+    "published_at": "2026-07-01",
+    "url": "https://news.example.com/mongolia-tour",
+    "keyword": "몽골 여행"
+  }
+]

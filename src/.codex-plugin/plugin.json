@@ -1,0 +1,34 @@
+{
+  "name": "myrealtrip-weekly-campaign-copilot",
+  "version": "0.1.0+codex.20260709215146",
+  "description": "Generate weekly travel campaign plans from public signals and MyRealTrip owned-channel content.",
+  "author": {
+    "name": "AX Hackathon MyRealTrip Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "myrealtrip",
+    "travel",
+    "campaign",
+    "marketing",
+    "public-signals"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "MyRealTrip Weekly Campaign Copilot",
+    "shortDescription": "Plan weekly travel campaigns from public evidence.",
+    "longDescription": "Collects public travel signals, normalizes owned-channel and public data, recommends evidence-backed destinations, and generates campaign assets plus a static HTML report.",
+    "developerName": "AX Hackathon MyRealTrip Team",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Generate this week's MyRealTrip campaign report.",
+      "Collect public travel signals and recommend campaigns.",
+      "Create Instagram, Facebook, and Naver Blog drafts."
+    ],
+    "brandColor": "#1D4ED8"
+  }
+}

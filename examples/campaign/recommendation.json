@@ -1,0 +1,18 @@
+{
+  "week":"2026-W28",
+  "top_candidates":[
+    {
+      "destination":"후쿠오카",
+      "campaign_score":91.4,
+      "trend_score":87.3,
+      "opportunity_score":15.2,
+      "risk_score":11.1,
+      "recommended_channels":["instagram","facebook","naver_blog"],
+      "evidence":[
+        "엔저 지속",
+        "여름 휴가 시즌",
+        "일본 여행 뉴스 증가"
+      ]
+    }
+  ]
+}

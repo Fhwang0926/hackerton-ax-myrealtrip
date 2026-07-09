@@ -1,0 +1,74 @@
+[
+  {
+    "source": "instagram",
+    "source_type": "owned_channel",
+    "platform": "instagram",
+    "title": "후쿠오카 주말 미식 여행",
+    "body": "엔저 흐름과 짧은 비행시간을 활용한 후쿠오카 미식 코스. 야타이, 온천, 근교 산책을 한 번에 제안합니다.",
+    "hashtags": ["후쿠오카", "일본여행", "미식여행", "마이리얼트립"],
+    "media_type": "reel",
+    "published_at": "2026-07-07",
+    "url": "https://www.instagram.com/myrealtrip",
+    "metrics": {"likes": null, "comments": null}
+  },
+  {
+    "source": "instagram",
+    "source_type": "owned_channel",
+    "platform": "instagram",
+    "title": "다낭 바나힐 여름 코스",
+    "body": "가족 여행자가 고르기 쉬운 다낭 바나힐 입장권과 왕복 이동 코스를 소개합니다.",
+    "hashtags": ["다낭", "바나힐", "가족여행"],
+    "media_type": "carousel",
+    "published_at": "2026-07-04",
+    "url": "https://www.instagram.com/myrealtrip",
+    "metrics": {"likes": null, "comments": null}
+  },
+  {
+    "source": "instagram",
+    "source_type": "owned_channel",
+    "platform": "instagram",
+    "title": "세부 보홀 첫 자유여행",
+    "body": "세부와 보홀을 함께 보는 초보자용 투어 조합. 호핑, 초콜릿힐, 고래상어 일정을 비교합니다.",
+    "hashtags": ["세부", "보홀", "필리핀여행"],
+    "media_type": "reel",
+    "published_at": "2026-07-02",
+    "url": "https://www.instagram.com/myrealtrip",
+    "metrics": {"likes": null, "comments": null}
+  },
+  {
+    "source": "instagram",
+    "source_type": "owned_channel",
+    "platform": "instagram",
+    "title": "제주 렌터카 가격비교",
+    "body": "여름 제주 여행을 준비하는 고객에게 렌터카 가격비교와 전기차 이용 팁을 안내합니다.",
+    "hashtags": ["제주", "렌터카", "국내여행"],
+    "media_type": "image",
+    "published_at": "2026-06-30",
+    "url": "https://www.instagram.com/myrealtrip",
+    "metrics": {"likes": null, "comments": null}
+  },
+  {
+    "source": "instagram",
+    "source_type": "owned_channel",
+    "platform": "instagram",
+    "title": "방콕 디너크루즈",
+    "body": "왓아룬 야경을 보는 방콕 디너크루즈와 뷰 맛집을 비교합니다.",
+    "hashtags": ["방콕", "디너크루즈", "태국여행"],
+    "media_type": "short",
+    "published_at": "2026-06-28",
+    "url": "https://www.instagram.com/myrealtrip",
+    "metrics": {"likes": null, "comments": null}
+  },
+  {
+    "source": "instagram",
+    "source_type": "owned_channel",
+    "platform": "instagram",
+    "title": "푸켓 피피섬 투어 비교",
+    "body": "스피드보트, 카타마란, 요트 기준으로 푸켓 피피섬 투어를 비교합니다.",
+    "hashtags": ["푸켓", "피피섬", "태국액티비티"],
+    "media_type": "carousel",
+    "published_at": "2026-06-26",
+    "url": "https://www.instagram.com/myrealtrip",
+    "metrics": {"likes": null, "comments": null}
+  }
+]

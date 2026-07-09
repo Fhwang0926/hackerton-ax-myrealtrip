@@ -1,0 +1,7 @@
+[
+  {"source": "exchange_rate", "source_type": "public_signal", "currency": "JPY", "base": "KRW", "rate": 9.1, "change_7d": -1.8, "observed_at": "2026-07-09"},
+  {"source": "exchange_rate", "source_type": "public_signal", "currency": "VND", "base": "KRW", "rate": 0.055, "change_7d": -0.4, "observed_at": "2026-07-09"},
+  {"source": "exchange_rate", "source_type": "public_signal", "currency": "PHP", "base": "KRW", "rate": 23.2, "change_7d": -0.7, "observed_at": "2026-07-09"},
+  {"source": "exchange_rate", "source_type": "public_signal", "currency": "THB", "base": "KRW", "rate": 39.4, "change_7d": 0.2, "observed_at": "2026-07-09"},
+  {"source": "exchange_rate", "source_type": "public_signal", "currency": "USD", "base": "KRW", "rate": 1370.0, "change_7d": 0.5, "observed_at": "2026-07-09"}
+]

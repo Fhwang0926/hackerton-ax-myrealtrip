@@ -1,0 +1,7 @@
+[
+  {"source": "flight_price", "source_type": "public_signal", "origin": "ICN", "destination": "FUK", "price": 148000, "change_7d": -12.5, "date_range": "2026-07-12/2026-07-14"},
+  {"source": "flight_price", "source_type": "public_signal", "origin": "ICN", "destination": "KIX", "price": 182000, "change_7d": -6.0, "date_range": "2026-07-12/2026-07-14"},
+  {"source": "flight_price", "source_type": "public_signal", "origin": "ICN", "destination": "DAD", "price": 286000, "change_7d": -3.4, "date_range": "2026-07-12/2026-07-16"},
+  {"source": "flight_price", "source_type": "public_signal", "origin": "ICN", "destination": "CEB", "price": 310000, "change_7d": 4.2, "date_range": "2026-07-12/2026-07-16"},
+  {"source": "flight_price", "source_type": "public_signal", "origin": "GMP", "destination": "CJU", "price": 73000, "change_7d": 8.1, "date_range": "2026-07-12/2026-07-14"}
+]

@@ -1,0 +1,5 @@
+[
+  {"source": "holiday", "source_type": "public_signal", "country": "KR", "date": "2026-08-15", "name": "광복절", "is_long_weekend": true},
+  {"source": "holiday", "source_type": "public_signal", "country": "JP", "date": "2026-07-20", "name": "Marine Day", "is_long_weekend": true},
+  {"source": "holiday", "source_type": "public_signal", "country": "KR", "date": "2026-10-03", "name": "개천절", "is_long_weekend": true}
+]

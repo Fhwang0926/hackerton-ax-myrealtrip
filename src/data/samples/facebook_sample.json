@@ -1,0 +1,57 @@
+[
+  {
+    "source": "facebook",
+    "source_type": "owned_channel",
+    "platform": "facebook",
+    "title": "하와이 투어 프로모션",
+    "body": "하와이 인기 투어 할인과 항공 숙박권 이벤트를 함께 안내합니다. 이번 주 특가 보기.",
+    "media_type": "image",
+    "published_at": "2026-07-03",
+    "campaign_type": "promotion",
+    "url": "https://www.facebook.com/myRealTrip"
+  },
+  {
+    "source": "facebook",
+    "source_type": "owned_channel",
+    "platform": "facebook",
+    "title": "몽골 동행매칭 투어",
+    "body": "혼자 신청해도 일정이 맞는 여행자와 함께 떠나는 몽골 고비사막 투어를 소개합니다.",
+    "media_type": "image",
+    "published_at": "2026-06-29",
+    "campaign_type": "guide",
+    "url": "https://www.facebook.com/myRealTrip"
+  },
+  {
+    "source": "facebook",
+    "source_type": "owned_channel",
+    "platform": "facebook",
+    "title": "오키나와 조이패스",
+    "body": "츄라우미 수족관과 주요 명소를 묶은 오키나와 패스 조합을 안내합니다.",
+    "media_type": "image",
+    "published_at": "2026-06-24",
+    "campaign_type": "promotion",
+    "url": "https://www.facebook.com/myRealTrip"
+  },
+  {
+    "source": "facebook",
+    "source_type": "owned_channel",
+    "platform": "facebook",
+    "title": "치앙마이 코끼리 보호소",
+    "body": "픽업 포함 반나절 투어와 보호소별 차이를 비교해 치앙마이 일정을 쉽게 고르게 합니다.",
+    "media_type": "article",
+    "published_at": "2026-06-20",
+    "campaign_type": "guide",
+    "url": "https://www.facebook.com/myRealTrip"
+  },
+  {
+    "source": "facebook",
+    "source_type": "owned_channel",
+    "platform": "facebook",
+    "title": "나트랑 호핑투어 스타일 비교",
+    "body": "크레이지 파티, 키즈 가족, 미니비치 등 나트랑 호핑투어 스타일별 선택 기준을 정리합니다.",
+    "media_type": "video",
+    "published_at": "2026-06-18",
+    "campaign_type": "guide",
+    "url": "https://www.facebook.com/myRealTrip"
+  }
+]

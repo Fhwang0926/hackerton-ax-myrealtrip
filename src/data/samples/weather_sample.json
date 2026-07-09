@@ -1,0 +1,8 @@
+[
+  {"source": "weather", "source_type": "public_signal", "city": "Fukuoka", "country": "JP", "date": "2026-07-10", "condition": "clear", "temperature_max": 30},
+  {"source": "weather", "source_type": "public_signal", "city": "Osaka", "country": "JP", "date": "2026-07-10", "condition": "cloudy", "temperature_max": 31},
+  {"source": "weather", "source_type": "public_signal", "city": "Da Nang", "country": "VN", "date": "2026-07-10", "condition": "clear", "temperature_max": 32},
+  {"source": "weather", "source_type": "public_signal", "city": "Cebu", "country": "PH", "date": "2026-07-10", "condition": "rain", "temperature_max": 29},
+  {"source": "weather", "source_type": "public_signal", "city": "Jeju", "country": "KR", "date": "2026-07-10", "condition": "rain", "temperature_max": 27},
+  {"source": "weather", "source_type": "public_signal", "city": "Phuket", "country": "TH", "date": "2026-07-10", "condition": "cloudy", "temperature_max": 30}
+]
